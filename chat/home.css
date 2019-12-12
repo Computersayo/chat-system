@@ -1,0 +1,39 @@
+.home{
+	background-color: blue;
+	color: white;
+	width: 120px;
+	margin: 30px ;
+	text-align: center;
+}
+.logout{
+	border-radius: 20px;
+}
+.container{
+	background-color: transparent;
+	width: 400px;
+	height: 500px;
+	border-color: green;
+	border-radius: 40px;
+}
+.body{
+	background-color: grey;
+}
+.chat{
+	background-color: green;
+}
+.form-control{
+	width: 800px;
+	height: 250px;
+	border-style: dashed;
+	border-color: green;
+	border-radius: 30px;
+	box-shadow: 0px 3px 4px #000;
+	margin-bottom: 20px;
+	overflow: scroll;
+}
+.col-md-6{
+	background: green;
+	max-height: 700px;
+	border-color: blue;
+	border-radius: 40px
+}
